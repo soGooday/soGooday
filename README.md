@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m @soGooday
-- 👀 I’m interested in js vue react canvas webgl STM32 chinese medicine
-- 🌱 I’m currently learning vue3 webgl chinese medicine
-- 💞️ I’m looking to collaborate on webgl  chinese medicine
+- 👀 I’m interested in js vue react canvas webgl STM32 chinese-medicine
+- 🌱 I’m currently learning vue3 webgl chinese-medicine
+- 💞️ I’m looking to collaborate on webgl  chinese-medicine
 - 📫 How to reach me weChat:630759294@qq.com  Twitter:sogooday
 
 <!---
